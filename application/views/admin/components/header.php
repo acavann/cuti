@@ -3,7 +3,7 @@
 <title>WEB-CUTI</title>
 
 <!--===============================================================================================-->
-<link rel="icon" type="image/png" href="<?= base_url();?>assets/pati1.png" />
+<link rel="icon" type="image/png" href="<?= base_url();?>assets/login/images/javag.jpeg" />
 <!-- Google Font: Source Sans Pro -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
 <!-- Font Awesome -->

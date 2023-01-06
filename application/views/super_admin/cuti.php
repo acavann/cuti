@@ -84,7 +84,6 @@
                                                 <th>Perihal Cuti</th>
                                                 <th>Alasan Verifikasi</th>
                                                 <th>Status Cuti</th>
-                                                <th>Cetak Surat</th>
                                                 <th>Aksi</th>
                                             </tr>
                                         </thead>
@@ -151,17 +150,6 @@
                                                         </div>
                                                     </div>
                                                     <?php }?>
-                                                </td>
-                                                <td><?php if($id_status_cuti == 2) { ?>
-                                                    <a href="<?= base_url();?>Cetak/surat_cuti_pdf/<?=$id_cuti?>"
-                                                        class="btn btn-info">
-                                                        Cetak Surat
-                                                    </a>
-                                                    <?php } else {?>
-                                                    <a href="#" class="btn btn-danger">
-                                                        Belum Dapat Mencetak
-                                                    </a>
-                                                    <?php } ?>
                                                 </td>
                                                 <td>
                                                     <div class="table-responsive">

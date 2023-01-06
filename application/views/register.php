@@ -8,7 +8,7 @@
     <title>WEB-CUTI | UPTB</title>
 
     <!--===============================================================================================-->
-    <link rel="icon" type="image/png" href="<?= base_url();?>assets/favicon.ico" />
+    <link rel="icon" type="image/png" href="<?= base_url();?>assets/login/images/javag.jpeg" />
 
     <!-- Font Icon -->
     <link rel="stylesheet"

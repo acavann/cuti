@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--===============================================================================================-->
-    <link rel="icon" type="image/png" href="<?= base_url();?>assets/login/images/javag.jpeg" />
+    <link rel="icon" type="image/png" href="<?= base_url();?>assets/logo.png" />
     <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="<?= base_url();?>assets/login/vendor/bootstrap/css/bootstrap.min.css">
     <!--===============================================================================================-->
@@ -102,8 +102,8 @@
     <div class="limiter">
         <div class="container-login100">
             <div class="wrap-login100">
-                <div class="login100-pic js-tilt" data-tilt>
-                    <img src="<?= base_url();?>assets/login/images/javag.jpeg" alt="IMG">
+                <div class="login100-pic js-tilt d-flex justify-content-center align-items-start" data-tilt>
+                    <img src="<?= base_url();?>assets/logo.png" alt="IMG">
                 </div>
 
 

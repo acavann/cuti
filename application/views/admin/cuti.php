@@ -195,14 +195,6 @@
                                                             </a>
                                                         </div>
                                                     </div>
-                                                    <div class="table-responsive">
-                                                        <div class="table table-striped table-hover ">
-                                                            <a href="" data-toggle="modal"
-                                                                data-target="#hapus<?= $id_cuti ?>"
-                                                                class="btn btn-danger"><i class="fas fa-trash"></i>
-                                                            </a>
-                                                        </div>
-                                                    </div>
                                                 </td>
 
 

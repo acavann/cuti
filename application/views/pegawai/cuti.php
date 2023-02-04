@@ -85,7 +85,6 @@
                                                 <th>Berakhir</th>
                                                 <th>Status Cuti</th>
                                                 <th>Alsan Verifikasi</th>
-                                                <th>Aksi</th>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -149,16 +148,6 @@
                                                     <?php } else {?>
                                                     <?=$alasan_verifikasi?>
                                                     <?php } ?>
-                                                </td>
-                                                <td>
-                                                    <div class="table-responsive">
-                                                        <div class="table table-striped table-hover ">
-                                                            <a href="" data-toggle="modal"
-                                                                data-target="#hapus<?= $id_cuti ?>"
-                                                                class="btn btn-danger"><i class="fas fa-trash"></i>
-                                                            </a>
-                                                        </div>
-                                                    </div>
                                                 </td>
 
                                             </tr>
